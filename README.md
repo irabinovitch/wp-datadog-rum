@@ -1,7 +1,7 @@
 # Datadog RUM for Wordpress
   
 Instrument Wordpress sites with [Datadog Real User Monitoring](https://docs.datadoghq.com/real_user_monitoring/installation/) (RUM).
-You will need to create a Datadog [Client Token](https://docs.datadoghq.com/account_management/api-app-keys/#client-tokens) and RUM ApplicationId.
+You will need to create a Datadog [Client Token](https://docs.datadoghq.com/account_management/api-app-keys/#client-tokens) and RUM ApplicationId by creating a [new RUM app](https://app.datadoghq.com/rum/create).
 
 ##  Installation
 
